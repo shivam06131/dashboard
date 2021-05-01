@@ -1,0 +1,19 @@
+.center {
+  display: flex;
+  width: 30%;
+  margin: auto;
+  justify-content: center;
+  margin-top: 10%;
+  margin-bottom: 2%;
+  background-color: aquamarine;
+  border-radius: 14px;
+}
+.first {
+  display: flex;
+  width: 30%;
+  margin: auto;
+  justify-content: center;
+  margin-bottom: 2%;
+  background-color: aquamarine;
+  border-radius: 14px;
+}
